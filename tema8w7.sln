@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tema8w7", "tema8w7\tema8w7.csproj", "{B59195E5-663F-422F-8511-0C83A5FC3282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59195E5-663F-422F-8511-0C83A5FC3282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59195E5-663F-422F-8511-0C83A5FC3282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59195E5-663F-422F-8511-0C83A5FC3282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59195E5-663F-422F-8511-0C83A5FC3282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C400B19-DAB1-4CFF-8951-382331D5F198}
+	EndGlobalSection
+EndGlobal
